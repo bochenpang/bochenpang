@@ -13,7 +13,7 @@ I am a passionate software developer with a keen interest in open-source project
 - 👯 I’m looking to collaborate on [Project/Idea]
 - 🤔 I’m looking for help with [Specific Issue]
 - 💬 Ask me about [Topics of Expertise]
-- 📫 How to reach me: [Your Email](mailto:youremail@example.com)
+- 📫 How to reach me: pangbochen@gmail.com
 - 😄 Pronouns: [Your Pronouns]
 - ⚡ Fun fact: [Something Interesting About You]
 
